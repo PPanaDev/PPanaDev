@@ -2,7 +2,7 @@
 
 🚀 Join me in the quirky universe of code every Monday and Wednesday at 7 PM on Twitch!
 
-💻 Developing the extraordinary and embracing the weird. Check out my latest projects here ➡️ [Projects]
+💻 Developing the extraordinary and embracing the weird. Check out my latest projects here ➡️ [Projects](Projects.md)
 
 👨‍💻 As a Software Engineer, I turn coffee into code and dreams into software. Let's create something amazing together!
 
