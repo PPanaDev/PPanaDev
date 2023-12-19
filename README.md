@@ -1,6 +1,6 @@
 👋 Hello, World! I’m PPanaDev, aka Paolo Panarese in the real world - your friendly neighborhood Software Engineer with a passion for programming!
 
-🚀 Join me in the quirky universe of code every Monday and Wednesday at 7 PM on Twitch!
+🚀 Join me in the quirky universe of code every Monday and Wednesday at 7 PM on [Twitch](https://www.google.com)!
 
 💻 Developing the extraordinary and embracing the weird. Check out my latest projects here ➡️ [Projects](Projects.md)
 
