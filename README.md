@@ -6,6 +6,8 @@
 
 👨‍💻 As a Software Engineer, I turn coffee into code and dreams into software. Let's create something amazing together!
 
+🇮🇹 The live sessions are conducted in Italian. Questions and interactions are more than welcome! 🇮🇹
+
 📬 Need to reach me? Slide into my DMs on [Instagram](https://www.google.com), catch me live on [Twitch](https://www.twitch.tv/ppanadev), rewatch the previous lives on [YouTube](https://www.youtube.com/@PPanaDev) or shoot me an email at [ppana.dev@gmail.com](mailto:ppana.dev@gmail.com) 📧
 
 <!---
