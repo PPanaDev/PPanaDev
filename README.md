@@ -4,7 +4,7 @@
 
 💻 I develop unusual projects (and occasionally something serious) that you can only find [here](Projects.md)
 
-🇮🇹 The live sessions are conducted in Italian. Questions and interactions are more than welcome! 🇮🇹
+🇮🇹 The live sessions are conducted in Italian, but questions and interactions are more than welcome also in English!
 
 📬 Need to reach me? Contact me in my DMs on [Instagram](https://www.google.com), catch me live on [Twitch](https://www.twitch.tv/ppanadev), rewatch the previous lives on [YouTube](https://www.youtube.com/@PPanaDev) or shoot me an email at [ppana.dev@gmail.com](mailto:ppana.dev@gmail.com) 📧
 
